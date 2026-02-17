@@ -14,6 +14,11 @@ nav {
     grid-area: nav;
 }
 
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+
 
 header {
     background-color: #014e2e;
