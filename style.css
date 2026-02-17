@@ -9,6 +9,11 @@ body {
     ;
 }
 
+nav {
+    background-color:#c1d32f;
+    grid-area: nav;
+}
+
 
 header {
     background-color: #014e2e;
